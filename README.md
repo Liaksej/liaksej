@@ -30,6 +30,6 @@ Python, HTML/CSS, Bash, Django, DRF, PostgreSQL, SQLAlchemy, pytest, unittest, S
 * Профессиональная работа с Python, 2022: [python_advanced.pdf](certificates%2Fpython_advanced.pdf)
 * Django: создание функциональных веб-приложений, 2022: [django.pdf](certificates%2Fdjango.pdf)
 
-![<image src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/tarusov_liaksej)
+[<image src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/tarusov_liaksej)
 
 
