@@ -24,11 +24,11 @@ Python, HTML/CSS, Bash, Django, DRF, PostgreSQL, SQLAlchemy, pytest, unittest, S
 * Белорусский Государственный Университет, юридический факультет, специалист (юрист, экономическое право), 2010
 
 #### Курсы
-* Основы языка программирования Python, 2022: [python_basic.pdf](certificates%2Fpython_basic.pdf)
-* Git — система контроля версий, 2022: [git_certificate.pdf](certificates%2Fgit_certificate.pdf)
-* Базы данных для python-разработчиков, 2022: [sql_python.pdf](certificates%2Fsql_python.pdf)
-* Профессиональная работа с Python, 2022: [python_advanced.pdf](certificates%2Fpython_advanced.pdf)
 * Django: создание функциональных веб-приложений, 2022: [django.pdf](certificates%2Fdjango.pdf)
+* Профессиональная работа с Python, 2022: [python_advanced.pdf](certificates%2Fpython_advanced.pdf)
+* Базы данных для python-разработчиков, 2022: [sql_python.pdf](certificates%2Fsql_python.pdf)
+* Git — система контроля версий, 2022: [git_certificate.pdf](certificates%2Fgit_certificate.pdf)
+* Основы языка программирования Python, 2022: [python_basic.pdf](certificates%2Fpython_basic.pdf)
 
 [<image src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/tarusov_liaksej)
 
