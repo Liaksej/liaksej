@@ -8,8 +8,8 @@ Python, HTML/CSS, Bash, Django, DRF, PostgreSQL, SQLAlchemy, pytest, unittest, S
 
 ### Портфолио
 
-* VKinder - чат-бот для знакомств в VK: https://github.com/Netology-Team-5/VKinder (Python, PostgreSQL, Selenium, psycopg2, requests, vk-api, webdriver-manager)
-* Backup фотографий из профиля Instagram на Google Drive: https://github.com/Liaksej/GrabPhotosFromTheInstagram/blob/main/main.py (Python, requests)
+* VKinder - чат-бот для знакомств в VK (_Python, PostgreSQL, Selenium, psycopg2, requests, vk-api, webdriver-manager_): https://github.com/Netology-Team-5/VKinder
+* Backup фотографий из профиля Instagram на Google Drive (_Python, requests_): https://github.com/Liaksej/GrabPhotosFromTheInstagram/blob/main/main.py 
 
 ### Учебные проекты
 * Django, DRF: https://github.com/Liaksej/django_training_works
