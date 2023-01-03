@@ -30,6 +30,10 @@ Python, HTML/CSS, Bash, Django, DRF, PostgreSQL, SQLAlchemy, pytest, unittest, S
 * Git — система контроля версий, 2022: [git_certificate.pdf](certificates%2Fgit_certificate.pdf)
 * Основы языка программирования Python, 2022: [python_basic.pdf](certificates%2Fpython_basic.pdf)
 
+### Контакты
+email: stalls-arrant-08@icloud.com
+Telegram: @liaksej
+
 [<image src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/tarusov_liaksej)
 
 
