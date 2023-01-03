@@ -32,7 +32,7 @@ Python, HTML/CSS, Bash, Django, DRF, PostgreSQL, SQLAlchemy, pytest, unittest, S
 
 #### Контакты
 email: stalls-arrant-08@icloud.com    
-Telegram: @liaksej
+telegram: @liaksej
 
 [<image src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/tarusov_liaksej)
 
