@@ -4,7 +4,7 @@
 
 ### Cтек
 
-TypeScript/JavaScript, Python, HTML/CSS, REST, React, Redux, Next.js, Django, DRF, Fastify, Node, tailwindcss, SQL, PostgreSQL, Linux, Docker, Docker Compose, nginx, pytest, jest, cypress, Selenium, Git, Auth.js, Webpack
+TypeScript/JavaScript, Python, HTML/CSS, REST, React, Redux, Next.js, RTK Query, Redux Toolkit, Redux Saga, Django, DRF, Fastify, Node, tailwindcss, SQL, PostgreSQL, Linux, Docker, Docker Compose, nginx, pytest, jest, cypress, Selenium, Git, Auth.js, Webpack
 
 ### Портфолио
 
