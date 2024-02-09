@@ -1,4 +1,4 @@
-[EN](https://github.com/Liaksej)
+[en](https://github.com/Liaksej)
 
 ### Привет всем 👋
 
@@ -10,11 +10,13 @@ TypeScript/JavaScript, Python, HTML/CSS, REST, React, Redux, Next.js, RTK Query,
 
 ### Портфолио
 
-* Tiny cloud - веб-приложение для безопасного облачного хранения файлов (_TypeScript, Python, React, Next.js, Django, DRF, tailwindcss, PostgreSQL, Linux, Docker, Docker Compose, nginx, pytest, jest, cypress, git, auth.js_): https://github.com/Liaksej/liaksej-tiny-cloud-backend
-* Retro Game - двухмерная игра в стиле фэнтези (_TypeScript, Webpack, jest, Babel, AppVeyor_): https://github.com/Liaksej/ajs-diplom
-* WebCloud - облачное хранилище фотографий из VK (_JavaScript, HTML, CSS_): https://github.com/Liaksej/fpyjs-WebCloudStorageUI
-* Noémi - веб-страница блога о творчестве, спорте и образе жизни (_HTML, CSS, GitHub Pages_): https://github.com/Liaksej/html-css-training-final-project-liaksej 
-* VKinder - чат-бот для знакомств в VK (_Python, PostgreSQL, Selenium, psycopg2, requests, vk-api, webdriver-manager_): https://github.com/Netology-Team-5/VKinder
+* [Tiny cloud](https://github.com/Liaksej/liaksej-tiny-cloud-backend) - веб-приложение для безопасного облачного хранения файлов (_TypeScript, Python, React, Next.js, Django, DRF, tailwindcss, PostgreSQL, Linux, Docker, Docker Compose, nginx, pytest, jest, cypress, git, auth.js_): https://github.com/Liaksej/liaksej-tiny-cloud-backend
+* [Chaos organizer](https://github.com/Liaksej/ahj-diplom-client/tree/main/ahj-diplom) - веб-приложение для ведения дневника, хранения информации и ее поиска (_React, Next.js, tailwindcss, emoji-picker-react, react-google-maps/api, react-markdown, react-use-websocket, js-cookie, Node.js, Fastify, Postgresql, Prisma, AWS S3, WebSocket, SSE): https://github.com/Liaksej/ahj-diplom-client/tree/main/ahj-diplom
+* [Bosa Noga](https://github.com/Liaksej/ra-bosa-noga) - пользовательский интерфейс интернет-магазина обуви с каталогом, корзиной, формой заказа, реализованный (_TypeScript, React, Next.js, Redux Toolkit, RTK Query, Vercel_): https://github.com/Liaksej/ra-bosa-noga
+* [Retro Game](https://github.com/Liaksej/ajs-diplom) - двухмерная игра в стиле фэнтези (_TypeScript, Webpack, jest, Babel, AppVeyor_): https://github.com/Liaksej/ajs-diplom
+* [WebCloud](https://github.com/Liaksej/fpyjs-WebCloudStorageUI) - облачное хранилище фотографий из VK (_JavaScript, HTML, CSS_): https://github.com/Liaksej/fpyjs-WebCloudStorageUI
+* [Noémi](https://github.com/Liaksej/html-css-training-final-project-liaksej) - веб-страница блога о творчестве, спорте и образе жизни (_HTML, CSS, GitHub Pages_): https://github.com/Liaksej/html-css-training-final-project-liaksej 
+* [VKinder](https://github.com/Netology-Team-5/VKinder) - чат-бот для знакомств в VK (_Python, PostgreSQL, Selenium, psycopg2, requests, vk-api, webdriver-manager_): https://github.com/Netology-Team-5/VKinder
 
 ### Образование, курсы, тренинги
 
