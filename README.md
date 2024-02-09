@@ -1,35 +1,43 @@
-### Привет всем 👋
+[RU](https://github.com/Liaksej/liaksej/blob/main/README_ru.md)
 
-Я — **Алексей Тарусов**, backend-разработчик на Python.
+### Hi everyone 👋
 
-### Cтек
+I am **Alexey Tarusov**, a fullstack developer.
 
-Python, HTML/CSS, Bash, Django, DRF, PostgreSQL, SQLAlchemy, pytest, unittest, Selenium, Git, macOS, Linux, Windows
+### Stack
 
-### Портфолио
+TypeScript/JavaScript, Python, HTML/CSS, REST, React, Redux, Next.js, RTK Query, Redux Toolkit, Redux Saga, Django, DRF, Fastify, Node, tailwindcss, SQL, PostgreSQL, Linux, Docker, Docker Compose, nginx, pytest, jest, cypress, Selenium, Git, Auth.js, Webpack
 
-* VKinder - чат-бот для знакомств в VK: https://github.com/Netology-Team-5/VKinder (Python, PostgreSQL, Selenium, psycopg2, requests, vk-api, webdriver-manager)
-* Backup фотографий из профиля Instagram на Google Drive: https://github.com/Liaksej/GrabPhotosFromTheInstagram/blob/main/main.py (Python, requests)
+### Portfolio
 
-### Учебные проекты
-* Django, DRF: https://github.com/Liaksej/django_training_works
-* SQL и получение данных: https://github.com/Liaksej/musicalservice_HW4
-* SQLAlchemy: https://github.com/Liaksej/HW6_ORM_for_expert
+* [Tiny cloud](https://github.com/Liaksej/liaksej-tiny-cloud-backend) - a secure cloud storage web application (_TypeScript, Python, React, Next.js, Django, DRF, tailwindcss, PostgreSQL, Linux, Docker, Docker Compose, nginx, pytest, jest, cypress, git, auth.js_): https://github.com/Liaksej/liaksej-tiny-cloud-backend
+* [Bosa Noga](https://github.com/Liaksej/ra-bosa-noga) - a custom interface for an online shoe shop with a catalog, shopping cart, order form (_TypeScript, React, Next.js, Redux Toolkit, RTK Query, Vercel_): https://github.com/Liaksej/ra-bosa-noga
+* [Retro Game](https://github.com/Liaksej/ajs-diplom) - a 2D fantasy-style game (_TypeScript, Webpack, jest, Babel, AppVeyor_): https://github.com/Liaksej/ajs-diplom
+* [WebCloud](https://github.com/Liaksej/fpyjs-WebCloudStorageUI) - a photo storage service for VK (_JavaScript, HTML, CSS_): https://github.com/Liaksej/fpyjs-WebCloudStorageUI
+* [Noémi](https://github.com/Liaksej/html-css-training-final-project-liaksej) - a blog web page about creativity, sports, and lifestyle (_HTML, CSS, GitHub Pages_): https://github.com/Liaksej/html-css-training-final-project-liaksej 
+* [VKinder](https://github.com/Netology-Team-5/VKinder) - a chatbot for dating on VK (_Python, PostgreSQL, Selenium, psycopg2, requests, vk-api, webdriver-manager_): https://github.com/Netology-Team-5/VKinder
 
-### Образование, курсы, тренинги
+### Education, Courses, Trainings:
 
-#### Окончил:
-* [Нетология](https://netology.ru/programs/fullstack-python-dev), backend разработчик на Python, 2022 - окончание в 2023
-* Белорусский Государственный Экономический Университет, Высшая школа управления и бизнеса, специалист (менеджер-экономист, бизнес администрирование), 2013
-* Белорусский Государственный Университет, юридический факультет, специалист (юрист, экономическое право), 2010
+#### Graduated
+* [Netology](https://netology.ru/programs/fullstack-python-dev), fullstack developer on Python, 2023: [diplom.pdf](https://github.com/Liaksej/liaksej/files/13766591/certificate-9.pdf)
+* Belarusian State Economic University, Higher School of Management and Business, specialist (economist-manager, business administration), 2013
+* Belarusian State University, Faculty of Law, specialist (lawyer, economic law), 2010
 
-#### Курсы
-* Основы языка программирования Python, 2022: [python_basic.pdf](certificates%2Fpython_basic.pdf)
-* Git — система контроля версий, 2022: [git_certificate.pdf](certificates%2Fgit_certificate.pdf)
-* Базы данных для python-разработчиков, 2022: [sql_python.pdf](certificates%2Fsql_python.pdf)
-* Профессиональная работа с Python, 2022: [python_advanced.pdf](certificates%2Fpython_advanced.pdf)
-* Django: создание функциональных веб-приложений, 2022: [django.pdf](certificates%2Fdjango.pdf)
+#### Courses
+* React: Library #1 in modern frontend development, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766590/certificate-8.pdf)
+* Advanced JavaScript toolset in the browser, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766589/certificate-7.pdf)
+* Deep JavaScript course for web development, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766587/certificate-6.pdf)
+* JavaScript: basics of working in the browser, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766585/certificate-5.pdf)
+* HTML and CSS: Basics of web layout, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766583/certificate-4.pdf)
+* Django: Creating functional web applications, 2022: [certificate.pdf](certificates%2Fdjango.pdf)
+* Professional work with Python, 2022: [certificate.pdf](certificates%2Fpython_advanced.pdf)
+* Databases for Python developers, 2022: [certificate.pdf](certificates%2Fsql_python.pdf)
+* Git — Version Control System, 2022: [certificate.pdf](certificates%2Fgit_certificate.pdf)
+* Basics of the Python programming language, 2022: [certificate.pdf](certificates%2Fpython_basic.pdf)
 
-![<image src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/tarusov_liaksej)
+#### Contacts
+email: stalls-arrant-08@icloud.com    
+telegram: @liaksej
 
 
