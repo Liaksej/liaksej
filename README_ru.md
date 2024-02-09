@@ -37,7 +37,7 @@ TypeScript/JavaScript, Python, HTML/CSS, REST, React, Redux, Next.js, RTK Query,
 * Git — система контроля версий, 2022: [certificate.pdf](certificates%2Fgit_certificate.pdf)
 * Основы языка программирования Python, 2022: [certificate.pdf](certificates%2Fpython_basic.pdf)
 
-#### Контакты
+### Контакты
 email: stalls-arrant-08@icloud.com    
 telegram: @liaksej
 
