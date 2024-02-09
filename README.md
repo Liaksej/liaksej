@@ -10,13 +10,13 @@ TypeScript/JavaScript, Python, HTML/CSS, REST, React, Redux, Next.js, RTK Query,
 
 ### Portfolio
 
-* [Tiny cloud](https://github.com/Liaksej/liaksej-tiny-cloud-backend) - a secure cloud storage web application (_TypeScript, Python, React, Next.js, Django, DRF, tailwindcss, PostgreSQL, Linux, Docker, Docker Compose, nginx, pytest, jest, cypress, git, auth.js_): https://github.com/Liaksej/liaksej-tiny-cloud-backend
-* [Chaos organizer](https://github.com/Liaksej/ahj-diplom-client/tree/main/ahj-diplom) - a web application for keeping a diary abd storing information (_React, Next.js, tailwindcss, emoji-picker-react, react-google-maps/api, react-markdown, react-use-websocket, js-cookie, Node.js, Fastify, Postgresql, Prisma, AWS S3, WebSocket, SSE): https://github.com/Liaksej/ahj-diplom-client/tree/main/ahj-diplom
-* [Bosa Noga](https://github.com/Liaksej/ra-bosa-noga) - a user interface for an online shoe shop with a catalog, shopping cart, order form (_TypeScript, React, Next.js, Redux Toolkit, RTK Query, Vercel_): https://github.com/Liaksej/ra-bosa-noga
-* [Retro Game](https://github.com/Liaksej/ajs-diplom) - a 2D fantasy-style game (_TypeScript, Webpack, jest, Babel, AppVeyor_): https://github.com/Liaksej/ajs-diplom
-* [WebCloud](https://github.com/Liaksej/fpyjs-WebCloudStorageUI) - a photo storage service for VK (_JavaScript, HTML, CSS_): https://github.com/Liaksej/fpyjs-WebCloudStorageUI
-* [Noémi](https://github.com/Liaksej/html-css-training-final-project-liaksej) - a blog web page about creativity, sports, and lifestyle (_HTML, CSS, GitHub Pages_): https://github.com/Liaksej/html-css-training-final-project-liaksej 
-* [VKinder](https://github.com/Netology-Team-5/VKinder) - a chatbot for dating on VK (_Python, PostgreSQL, Selenium, psycopg2, requests, vk-api, webdriver-manager_): https://github.com/Netology-Team-5/VKinder
+* [Tiny cloud](https://github.com/Liaksej/liaksej-tiny-cloud-backend) - Web Application for secure cloud storage (_TypeScript, Python, React, Next.js, Django, DRF, tailwindcss, PostgreSQL, Linux, Docker, Docker Compose, nginx, pytest, jest, cypress, git, auth.js_): https://github.com/Liaksej/liaksej-tiny-cloud-backend
+* [Chaos organizer](https://github.com/Liaksej/ahj-diplom-client/tree/main/ahj-diplom) - Web application for diary management, information storage and retrieval (_React, Next.js, tailwindcss, emoji-picker-react, react-google-maps/api, react-markdown, react-use-websocket, js-cookie, Node.js, Fastify, Postgresql, Prisma, AWS S3, WebSocket, SSE_): https://github.com/Liaksej/ahj-diplom-client/tree/main/ahj-diplom
+* [Bosa Noga](https://github.com/Liaksej/ra-bosa-noga) - User interface for online shoe store with catalog, shopping cart, order form (_TypeScript, React, Next.js, Redux Toolkit, RTK Query, Vercel_): https://github.com/Liaksej/ra-bosa-noga
+* [Retro Game](https://github.com/Liaksej/ajs-diplom) - 2D fantasy game (_TypeScript, Webpack, jest, Babel, AppVeyor_): https://github.com/Liaksej/ajs-diplom
+* [WebCloud](https://github.com/Liaksej/fpyjs-WebCloudStorageUI) - Cloud storage for photos from VK.com (_JavaScript, HTML, CSS_): https://github.com/Liaksej/fpyjs-WebCloudStorageUI
+* [Noémi](https://github.com/Liaksej/html-css-training-final-project-liaksej) - a blog web page about creativity, sports and lifestyle (_HTML, CSS, GitHub Pages_): https://github.com/Liaksej/html-css-training-final-project-liaksej 
+* [VKinder](https://github.com/Netology-Team-5/VKinder) - chatbot for dating in VK.com (_Python, PostgreSQL, Selenium, psycopg2, requests, vk-api, webdriver-manager_): https://github.com/Netology-Team-5/VKinder
 
 ### Education, Courses, Trainings:
 
