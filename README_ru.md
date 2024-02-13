@@ -1,4 +1,4 @@
-[en](https://github.com/Liaksej)
+[en](https://github.com/Liaksej) | [es](https://github.com/Liaksej/liaksej/blob/main/README_es.md)
 
 ### Привет всем 👋
 

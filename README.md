@@ -1,4 +1,4 @@
-[ru](https://github.com/Liaksej/liaksej/blob/main/README_ru.md)
+[es](https://github.com/Liaksej/liaksej/blob/main/README_es.md) | [ru](https://github.com/Liaksej/liaksej/blob/main/README_ru.md)
 
 ### Hi everyone 👋
 
