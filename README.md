@@ -34,6 +34,7 @@ TypeScript/JavaScript, Python, HTML/CSS, REST, React, Redux, Next.js, RTK Query,
 * HTML and CSS: Basics of web layout, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766583/certificate-4.pdf)
 * Django: Creating functional web applications, 2022: [certificate.pdf](certificates%2Fdjango.pdf)
 * Professional work with Python, 2022: [certificate.pdf](certificates%2Fpython_advanced.pdf)
+* HackerRank: Python (Basic), 2023: https://www.hackerrank.com/certificates/9166c7e9a623
 * Databases for Python developers, 2022: [certificate.pdf](certificates%2Fsql_python.pdf)
 * Git — Version Control System, 2022: [certificate.pdf](certificates%2Fgit_certificate.pdf)
 * Basics of the Python programming language, 2022: [certificate.pdf](certificates%2Fpython_basic.pdf)
