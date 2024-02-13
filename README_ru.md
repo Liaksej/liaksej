@@ -28,6 +28,7 @@ TypeScript/JavaScript, Python, HTML/CSS, REST, React, Redux, Next.js, RTK Query,
 #### Курсы
 * React: Библиотека No1 в современной фронтенд-разработке, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766590/certificate-8.pdf)
 * Расширенный инструментарий JavaScript в браузере, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766589/certificate-7.pdf)
+* Открытый летний лекторий [Young&&Yandex](https://yandex.ru/yaintern/schools/open-lectures#schedule-group), 2023, треки: "Разработка интерфейсов", "Бэкенд-разработка"
 * JavaScript: углубленный курс веб- разработки, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766587/certificate-6.pdf)
 * JavaScript: основы работы в браузере, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766585/certificate-5.pdf)
 * HTML и CSS: основы веб-верстки, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766583/certificate-4.pdf)
