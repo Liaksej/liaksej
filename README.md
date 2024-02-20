@@ -41,6 +41,6 @@ TypeScript/JavaScript, Python, HTML/CSS, REST, React, Redux, Next.js, RTK Query,
 
 ### Contacts
 email: stalls-arrant-08@icloud.com    
-telegram: @liaksej
+telegram: [@liaksej](https://t.me/liaksej)
 
 
