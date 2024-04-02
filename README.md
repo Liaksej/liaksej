@@ -2,7 +2,7 @@
 
 ### Hi everyone 👋
 
-I am **Alexey Tarusov**, a fullstack developer.
+I am **Alexei Tarusau**, a fullstack developer.
 
 ### Stack
 
