@@ -40,6 +40,7 @@ _Result_: the chatbot was developed on time. The task was fully completed.
 * Belarusian State University, Faculty of Law (lawyer, economic law), 2010
 
 #### Courses
+* Yandex Algorithm Training 5.0, 2024: [yandex-alg50.pdf](certificates%2Fyandex-alg50.pdf)
 * React: Library #1 in modern frontend development, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766590/certificate-8.pdf)
 * Advanced JavaScript toolset in the browser, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766589/certificate-7.pdf)
 * Cycle of open lectures [Young&&Yandex](https://yandex.ru/yaintern/schools/open-lectures#schedule-group), 2023, tracks: Interface Development, Server Side Development

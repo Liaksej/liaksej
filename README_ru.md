@@ -40,6 +40,7 @@ _Результат_: чат-бот реализован в срок. Задач
 * Белорусский Государственный Университет, юридический факультет, специалист (юрист, экономическое право), 2010
 
 #### Курсы
+* Тренировки по алгоритмам 5.0 от Yandex, 2024: [yandex-alg50.pdf](certificates%2Fyandex-alg50.pdf)
 * React: Библиотека No1 в современной фронтенд-разработке, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766590/certificate-8.pdf)
 * Расширенный инструментарий JavaScript в браузере, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766589/certificate-7.pdf)
 * Открытый летний лекторий [Young&&Yandex](https://yandex.ru/yaintern/schools/open-lectures#schedule-group), 2023, треки: "Разработка интерфейсов", "Бэкенд-разработка"

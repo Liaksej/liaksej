@@ -26,6 +26,7 @@ TypeScript/JavaScript, Python, HTML/CSS, REST, React, Redux, Next.js, RTK Query,
 * Universidad Estatal Bielorrusia, Facultad de Derecho (abogado, derecho económico), 2010
 
 #### Cursos
+* Yandex Algorithm Training 5.0, 2024: [yandex-alg50.pdf](certificates%2Fyandex-alg50.pdf)
 * React: Biblioteca #1 en desarrollo frontend moderno, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766590/certificate-8.pdf)
 * Conjunto avanzado de herramientas de JavaScript en el navegador, 2023: [certificate.pdf](https://github.com/Liaksej/liaksej/files/13766589/certificate-7.pdf)
 * Ciclo de conferencias abiertas [Young&&Yandex](https://yandex.ru/yaintern/schools/open-lectures#schedule-group), 2023, pistas: Desarrollo de interfases, Desarrollo del lado de servidor
