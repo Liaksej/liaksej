@@ -6,11 +6,13 @@ I am **Alexei Tarusau**, a Senior Full-Stack Developer & AWS Builder.
 
 ### Stack
 
-Frontend:
+**Frontend**:   
 TypeScript • React • Next.js • Astro • HTML5 • CSS3 • Vite • Webpack • Vitest • Tailwind CSS
-Backend:
+
+**Backend**:  
 TypeScript • Python • Node.js • Express • Django • DRF • Fastify • Event-Driven Architecture • Microservices • ASL State Machines • JSONata • JSON Schema • PostgreSQL • MySQL • Prisma ORM
-Cloud & DevOps:
+
+**Cloud & DevOps**:  
 AWS (Certified) • Serverless • Infrastructure as Code • CloudFormation & SAM • Event-Driven Architecture • REST API Design • CloudEvents • Docker • Docker Compose • Nginx • GitHub Actions
 
 ### Few little pet projects 2022-2024
