@@ -40,10 +40,10 @@ _Result_: the chatbot was developed on time. The task was fully completed.
 ### Education, Certification, Trainings:
 
 #### Certifications
-AWS Certified Developer Associate (2025)
-AWS Certified Cloud Practitioner (2024)
-AWS Knowledge: Events and Workflows - Training Badge (2025)
-AWS Knowledge: Serverless - Training Badge (2024)
+* AWS Certified Developer Associate (2025)
+* AWS Certified Cloud Practitioner (2024)
+* AWS Knowledge: Events and Workflows - Training Badge (2025)
+* AWS Knowledge: Serverless - Training Badge (2024)
 
 #### Graduated
 * [Netology](https://netology.ru/programs/fullstack-python-dev), fullstack developer on Python, 2023: [diplom.pdf](https://github.com/Liaksej/liaksej/files/13766591/certificate-9.pdf)
